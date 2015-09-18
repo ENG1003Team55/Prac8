@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 LIST OF MEMBERS FOR TEAM 55ÊSAM PROSSER-ROBERTSÊJack AndrewsÊWill RichardsÊMEMBER 4 NAME
 =======
 LIST OF MEMBERS FOR TEAM 55ÊSAM PROSSER-ROBERTSÊJACK ANDREWS ÊWill RichardsÊMEMBER 4 NAME
 >>>>>>> origin/master
+=======
+LIST OF MEMBERS FOR TEAM 55ÊSAM PROSSER-ROBERTSÊJACK ANDREWS ÊWill RichardsÊMEMBER 4 NAME
+>>>>>>> master
